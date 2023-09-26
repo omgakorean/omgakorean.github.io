@@ -1,0 +1,38 @@
+
+                body {
+                background-color: #1f1f1f
+
+                }
+
+                .logo {
+                 display: block;
+                 margin-left: auto;
+                 margin-right: auto;
+
+
+}
+
+                    .discord {
+                    width: 15.5%;
+                    position: absolute; top: 36%; left: 25.5%; bottom: 50%;
+                }
+
+                    .telegram {
+                    width: 15.5%;
+                    position: absolute; top: 36.2%; left: 43%; bottom: 50%;
+                }
+
+                    .youtube {
+                    width: 15.5%;
+                    position: absolute; top: 36.2%; left: 60.5%; bottom: 50%;
+                }  
+
+                    .github {
+                    width: 15.5%;
+                    position: absolute; top: 46%; left: 33%; bottom: 50%;
+                }  
+
+                footer { 
+                    font-family: 'Pensioner', Arial, sans-serif;
+                    color: white
+                 }
